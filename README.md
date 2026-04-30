@@ -1,4 +1,4 @@
-"""# Hi, I'm Firza 👋
+# Hi, I'm Firza 👋
 
 I'm a Linux and cybersecurity enthusiast with hands-on experience in Linux systems, VPS infrastructure, server security, malware analysis, vulnerability assessment, and automation.
 
