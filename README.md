@@ -8,7 +8,7 @@ I enjoy working close to the terminal, troubleshooting real server issues, analy
 
 ## 🧠 About Me
 
-- Linux user with around 5 years of hands-on experience
+- Linux user with around 6 years of hands-on experience
 - Interested in defensive security, infrastructure security, and malware analysis
 - Experienced with VPS management, website troubleshooting, and server hardening
 - Comfortable working with SSH, Linux command line, web servers, logs, firewalls, and automation
